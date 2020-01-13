@@ -1,4 +1,4 @@
 # PySH
 A simple and portable Shell in Python and for Python
- 
-**The project is in pause, it may be continued or not.**
+
+**@LinuxCat j'en est plus besoin. fais-en ce que tu veux :)**
